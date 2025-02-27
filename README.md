@@ -1,11 +1,9 @@
 
 <div align="center">
 
-# Hi all, I'm [Inlinera✨](https://github.com/inlinera)
-### Frontend Developer from Russia 🇷🇺
+# Hi all, I'm [Vyacheslav✨](https://github.com/SLEMMSIK)
+### Full-Stack Developer from Russia 🇷🇺
 
-![codewars](https://www.codewars.com/users/SLEMSIK/badges/small)<br/>
-    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SLEMSIK&theme=gotham&layout=compact)
 
 <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
