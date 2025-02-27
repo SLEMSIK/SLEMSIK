@@ -48,7 +48,6 @@
 
 <p align="center">
 <a href="https://eSchedule.ru"><img src="https://img.shields.io/badge/-eSchedule.ru-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:vya-job@mail.ru"><img src="https://img.shields.io/badge/-vya-job@mail.ru-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/slemsik"><img src="https://img.shields.io/badge/-@slemsik-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/slemsik"><img src="https://img.shields.io/badge/-@slemsik-1877F2?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
